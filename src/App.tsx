@@ -4,6 +4,7 @@ import {
   TagLabel, TagCloseButton, InputRightElement, Button, TagRightIcon,
 } from '@chakra-ui/react';
 import './App.css';
+
 import { FaDog, FaCheckCircle, FaRegEdit } from 'react-icons/fa';
 import { v4 as uuidv4 } from 'uuid';
 
